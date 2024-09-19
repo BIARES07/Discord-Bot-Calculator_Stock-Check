@@ -1,0 +1,2 @@
+let gold = "0";
+let member = "0";
